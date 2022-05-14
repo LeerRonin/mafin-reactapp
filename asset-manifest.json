@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mafin-reactapp/static/css/main.1544f658.css",
-    "main.js": "/mafin-reactapp/static/js/main.a59eac0f.js",
+    "main.css": "/mafin-reactapp/static/css/main.c7736929.css",
+    "main.js": "/mafin-reactapp/static/js/main.e36ec9a0.js",
     "static/js/787.093ec609.chunk.js": "/mafin-reactapp/static/js/787.093ec609.chunk.js",
     "static/media/logo.svg": "/mafin-reactapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mafin-reactapp/index.html",
-    "main.1544f658.css.map": "/mafin-reactapp/static/css/main.1544f658.css.map",
-    "main.a59eac0f.js.map": "/mafin-reactapp/static/js/main.a59eac0f.js.map",
+    "main.c7736929.css.map": "/mafin-reactapp/static/css/main.c7736929.css.map",
+    "main.e36ec9a0.js.map": "/mafin-reactapp/static/js/main.e36ec9a0.js.map",
     "787.093ec609.chunk.js.map": "/mafin-reactapp/static/js/787.093ec609.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1544f658.css",
-    "static/js/main.a59eac0f.js"
+    "static/css/main.c7736929.css",
+    "static/js/main.e36ec9a0.js"
   ]
 }
