@@ -6,7 +6,7 @@ import Task from './Home/Task'
 
 const Home = () => {
   return (
-    <div className='p-10 bg-inherit h-screen w-screen grid auto-rows-[1fr_2fr_1fr] gap-10 '>
+    <div className='p-10 h-screen w-screen grid auto-rows-[1fr_4fr_1fr] gap-10 bg-{var(--tg-theme-bg-color)}'>
         <Total />
         <Table />
         <Task />

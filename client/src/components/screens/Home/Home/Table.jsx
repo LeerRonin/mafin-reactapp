@@ -2,7 +2,7 @@ import React from 'react'
 
 const Table = () => {
   return (
-    <div className='bg-slate-600 rounded-2xl'>1</div>
+    <div className='bg-white rounded-2xl border-black border-8'>1</div>
   )
 }
 
