@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"tailwindCSS.experimental.configFile": null,
+		"files.associations": {
+			"*.css": "tailwindcss"
+		},
+		"editor.quickSuggestions": {
+
+
+
+			"other": "on",
+			"comments": "off",
+			"strings": true
+		},
+		"tailwindCSS.includeLanguages": {
+			"plaintext": "javascriptreact"
+		}
+	}
+}

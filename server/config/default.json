@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://Leer:5eX9yRhi0MBREXQM@cluster.euh98.mongodb.net/Cluster?retryWrites=true&w=majority"
+}
