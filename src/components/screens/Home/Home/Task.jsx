@@ -2,7 +2,7 @@ import React from 'react'
 
 const Task = () => {
   return (
-    <div className='bg-gray-300'></div>
+    <div className='bg-red-800'></div>
   )
 }
 
