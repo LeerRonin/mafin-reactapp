@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mafin-reactapp/static/css/main.382f5a6f.css",
-    "main.js": "/mafin-reactapp/static/js/main.9e4d069f.js",
+    "main.js": "/mafin-reactapp/static/js/main.93146dd1.js",
     "static/js/787.093ec609.chunk.js": "/mafin-reactapp/static/js/787.093ec609.chunk.js",
     "index.html": "/mafin-reactapp/index.html",
     "main.382f5a6f.css.map": "/mafin-reactapp/static/css/main.382f5a6f.css.map",
-    "main.9e4d069f.js.map": "/mafin-reactapp/static/js/main.9e4d069f.js.map",
+    "main.93146dd1.js.map": "/mafin-reactapp/static/js/main.93146dd1.js.map",
     "787.093ec609.chunk.js.map": "/mafin-reactapp/static/js/787.093ec609.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.382f5a6f.css",
-    "static/js/main.9e4d069f.js"
+    "static/js/main.93146dd1.js"
   ]
 }
