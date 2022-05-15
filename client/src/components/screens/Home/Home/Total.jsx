@@ -2,7 +2,7 @@ import React from 'react'
 
 const Total = () => {
   return (
-    <div className='bg-white'></div>
+    <div className='bg-slate-600 rounded-full'>1</div>
   )
 }
 
