@@ -6,4 +6,7 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
 }
